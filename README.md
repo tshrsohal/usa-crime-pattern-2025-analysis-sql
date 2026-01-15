@@ -1,4 +1,4 @@
-# Crime Pattern Analysis using SQL (2025 US Data)
+# Crime Pattern Analysis (2025 US Data)
 
 ## Project Overview
 This project analyzes 2025 U.S. crime data using SQL to identify crime trends, repeat locations, victim demographics, and weapon-related risk patterns. The goal is to demonstrate beginner-to-intermediate SQL skills applied to a real-world public safety dataset.
